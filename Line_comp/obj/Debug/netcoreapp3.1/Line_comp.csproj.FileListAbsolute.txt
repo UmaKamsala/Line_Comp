@@ -1,0 +1,14 @@
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.exe
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.deps.json
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.runtimeconfig.json
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.runtimeconfig.dev.json
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.dll
+C:\Users\AU\Desktop\Line_comp\Line_comp\bin\Debug\netcoreapp3.1\Line_comp.pdb
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.csproj.AssemblyReference.cache
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.AssemblyInfoInputs.cache
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.AssemblyInfo.cs
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.csproj.CoreCompileInputs.cache
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.dll
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.pdb
+C:\Users\AU\Desktop\Line_comp\Line_comp\obj\Debug\netcoreapp3.1\Line_comp.genruntimeconfig.cache
